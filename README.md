@@ -22,7 +22,7 @@ This repository contains the complete source code for the Minus Plastic applicat
 3.  The API will be running on `http://localhost:8080`.
 
 ---
-
+ cd backend/api
 ### How to Run the Frontend 🎨
 
 1.  Navigate to the frontend directory:
@@ -31,7 +31,7 @@ This repository contains the complete source code for the Minus Plastic applicat
     ```
 2.  Install dependencies:
     ```bash
-    npm install
+   yarn install
     ```
 3.  Start the Expo development server:
     ```bash
